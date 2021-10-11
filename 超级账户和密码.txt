@@ -1,0 +1,17 @@
+用户名：     django
+密码：  python3web
+
+依赖库：
+asgiref==3.4.1
+Django==3.2.7
+django-widget-tweaks==1.4.8
+DjangoUeditor==1.8.143
+Pillow==8.3.2
+pytz==2021.1
+six==1.16.0
+sqlparse==0.4.2
+yapf==0.31.0
+
+pip install -r requirements.txt
+
+部署操作：https://www.cnblogs.com/qsj-python/p/13059826.html
